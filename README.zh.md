@@ -33,6 +33,12 @@
 
 你可以通过 `/role` 命令后跟角色名来指定任何这些角色。如果你想要一个涉及多个角色的圆桌会议，可以在命令后列出多个角色，例如 `/role Sakyamuni, Laozi`。
 
+
+## Prompt 特色
+
+- 使用我设计的 [【WIP】Prompt 描述语言（PDL,Prompt Descrition Language)](https://github.com/ZhangHanDong/prompt-description-language)编写 Prompt。该描述语言支持编写结构化和模块化 Prompt 。
+- 支持多命令组合使用。
+
 ## 使用图示
 
 ![1](./images/1.png)

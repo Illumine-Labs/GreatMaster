@@ -31,6 +31,11 @@ Please remember, these commands can help you customize how you interact with me,
 
 You can specify any of these roles using the `/role` command followed by the name of the role. If you'd like a round table discussion involving multiple roles, you can list multiple roles after the command. For example, `/role Sakyamuni, Laozi`.
 
+## Features
+
+- Use my designed [【WIP】Prompt Description Language (PDL,Prompt Description Language)](https://github.com/ZhangHanDong/prompt-description-language) to write Prompt. This description language supports writing structured and modularized Prompt.
+- Supports multiple commands combined use.
+
 ## Usage Case:
 
 ![1](./images/1.png)

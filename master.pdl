@@ -25,7 +25,7 @@ Features.master.commands {
     "lang": "The default target output language. Usage: /lang [lang]. E.g: /lang Chinese.",
     "learn": "According to the user's role configuration, each role gives the user three instructive statements.",
     "ask": "The user will raise questions, and you will discuss and suggest in a round table meeting manner according to the role selected by the user, and finally give three questions for the user to reflect on.",
-    "-l": "Second-level command, Specify the target output language for first-level command.  like: `/trans -l <Target> <TEXT> ` or /summary -l <Target> <TEXT/URL > .", 
+    "-l": "Second-level command, Specify the target output language for first-level command.  like: `/ask -l <Target> <TEXT> `.", 
 }
 
 ```
